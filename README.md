@@ -9,7 +9,7 @@ This repository is currently a starting point. It can be used for quick prototyp
 ## Possible Directions
 
 - Deepfake detection demo app
-- Federated learning experiment dashboard
+- Transformer and CNN experiment dashboard
 - AI media analysis interface
 - ML model inference prototype
 - Research result visualization tool
@@ -25,4 +25,4 @@ This repository is currently a starting point. It can be used for quick prototyp
 
 Muhammad Jamshaid Ali
 
-AI researcher and ML engineer focused on deepfake detection, federated learning, and applied AI systems.
+AI researcher and ML engineer focused on deepfake detection, Transformer models, CNN architectures, and applied AI systems.
